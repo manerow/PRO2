@@ -1,0 +1,55 @@
+0
+1
+(0)
+(0 1 2 3)
+()
+indefinit
+indefinit
+indefinit
+2
+indefinit
+(1)
+x 10
+indefinit
+indefinit
+1
+x 5
+indefinit
+indefinit
+op #3
+3
+indefinit
+y 5
+y indefinit
+indefinit
+indefinit
+indefinit
+asd 7
+op1 #0
+a32 indefinit
+indefinit
+negand #2
+indefinit
+0
+indefinit
+indefinit
+5
+5
+indefinit
+aaa 0
+bbb 1
+1
+indefinit
+indefinit
+0
+Variables:
+a32 indefinit
+aaa 0
+asd 7
+bbb 1
+x 5
+y 5
+Operacions:
+negand #2
+op #3
+op1 #0

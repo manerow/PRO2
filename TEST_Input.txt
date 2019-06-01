@@ -1,0 +1,54 @@
+0
+00001
+
+
+(-0)
+(000 01 2 3)
+  
+()
+(-3 (4)
+ 5)
+(+ 10 (23))
+(- 12 13)
+(if (+ 0 1) 2 3)
+(+ a 3)
+(cons 1 ())
+(define x 10)
+(not x)
+(and x 1)
+(< x 11)
+(define x (+ 10 (- 5)))
+(= v4 v11 v4 v6)
+(+ (-2) (+ 3 (- 5)))
+(define 
+  op 
+     (a b c) 
+     (+ a (< b c)))
+(op 2 3 4)
+(if (op 1 2 3) (22 22) (33 33))
+(define y x)
+(define y (< 3 (1 2 3)))
+(and x y)
+(and x (0))
+(or 1 (0))
+(define asd (+ 3 4))
+(define op1 () (3))
+(define a32 (+ op1 2))
+(+ a32 
+        (- (+ a32 2)))
+(define negand (a d) (not (and a d)))
+(not 3)
+(not 1)
+(cons 0 0)
+(cons () ())
+x
+y
+(cons 3 (()))
+(define aaa 0000)
+(define bbb 
+       00001)
+(negand aaa bbb)
+(negand 111 000)
+(negand 34 43)
+(< 21 12)
+****
