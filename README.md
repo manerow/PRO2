@@ -21,13 +21,13 @@ $ ./program.exe < TEST_Input.txt
 ```
 The Testing file has invalid operations on purpose.
 
-You should expect the following outputs:
-Invalid operations will be resolved as "_indefinit_".
-Operations with negative result are also _indefinit_.
-Arithmetic and boolean operations will produce a single output containing the result of the operation.
-Array definitions will produce a single output printing the array.
-Definitions will produce a single output with the definition identifier (#<id>).
-Variable definitions will produce a single output with the variable name and the variable value.
-
+You should expect the following outputs:  
+Invalid operations will be resolved as "_indefinit_".  
+Operations with negative result are also _indefinit_.  
+Arithmetic and boolean operations will produce a single output containing the result of the operation.  
+Array definitions will produce a single output printing the array.  
+Definitions will produce a single output with the definition identifier (#<id>).  
+Variable definitions will produce a single output with the variable name and the variable value.  
+  
 At the end of the output you can find all the variables with its final values and all the operation definitions with its identifiers.
 
