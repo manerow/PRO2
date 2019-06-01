@@ -1,7 +1,7 @@
 # PRO2 Subject Project
 Lisp interpreter in C++
 ## Getting Started
-This is the PRO2 subject course project which consists in developing an interpret in C++ language for basic arithmetic and boolean operations written in Lisp form. The program also allows to define new operations, variables and arrays.
+This is the PRO2 subject course project which consists in developing an interpreter in C++ language for basic arithmetic and boolean operations written in Lisp form. The program also allows to define new operations, variables and arrays.
 The whole project is documented using Doxygen.
 ### Dependencies
 ```
