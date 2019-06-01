@@ -30,4 +30,3 @@ Definitions will produce a single output with the definition identifier (#<id>).
 Variable definitions will produce a single output with the variable name and the variable value.  
   
 At the end of the output you can find all the variables with its final values and all the operation definitions with its identifiers.
-
