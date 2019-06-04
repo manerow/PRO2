@@ -11,7 +11,7 @@ build-essential
 ### Installing
 The project comes with a makefile. In order to compile and run the program, do the following steps:
 ```
-Unpack the project
+Clone or unpack the project
 $ make program.exe
 $ ./program.exe
 ```
